@@ -1,0 +1,2 @@
+- completar lesson 2 readme
+- subir todos los cambios a github
