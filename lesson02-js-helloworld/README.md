@@ -12,9 +12,9 @@ Para hacer cambios con git se puede utilizar:
 ```
 git add movies.js
 ```
-- git add (nombre del archivo con el punto) en este caso lo hace pero agrega todo.
+- En este caso lo hace pero agrega todo.
 ``` 
-git add .
+git add -A
 ```
 
 - git commit -m  (descripcion del conjunto de cambios) para subir a git hub y dejarlo en espera.
